@@ -1,0 +1,12 @@
+body {
+  border: 1px red solid;
+}
+div {
+  color: #000;
+}
+body {
+  background-color: #000;
+}
+body .pp {
+  color: red;
+}
